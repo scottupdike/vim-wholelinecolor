@@ -6,50 +6,50 @@ vim plugin for changing background color of lines
 Have you ever wanted to mark lines or groups of lines in a way that is easy
 to see and be be able to jump to those markings? The **WholeLineColor** plugin
 lets you do just that. Using Vim's signs feature, the background color of
-lines can be changing with convenient mappings. Groups of lines can be
+lines can be changed with convenient mappings. Groups of lines can be
 marked in visual mode with the same mappings. There are also mappings to
 go to the next and previous group of marked lines.
 
 ## Functionality
 
 ```vim
-<Space>bu    [repeatable]
+<Space>bu
 ```
 Remove set color from current (or selected) lines.
 
 
 ```vim
-<Space>bn    [repeatable]
+<Space>bn
 ```
 Set background of current or selected lines to green.
 
 
 ```vim
-<Space>bg    [repeatable]
+<Space>bg
 ```
 Set background of current or selected lines to grey.
 
 
 ```vim
-<Space>bl    [repeatable]
+<Space>bl
 ```
 Set background of current or selected lines to blue.
 
 
 ```vim
-<Space>bp    [repeatable]
+<Space>bp
 ```
 Set background of current or selected lines to purple.
 
 
 ```vim
-<Space>br    [repeatable]
+<Space>br
 ```
 Set background of current or selected lines to red.
 
 
 ```vim
-<Space>bb    [repeatable]
+<Space>bb
 ```
 Set background of current or selected lines to black.
 
