@@ -108,13 +108,13 @@ with other sign ids, e.g. sign ids coming from other plugins.
 g:wholelinecolor_next
 ```
 The keystroke used to goto the next group of lines with background color set.
-The default is '<c-n>'.
+The default is `<c-n>`.
 
 ```vim
 g:wholelinecolor_prev
 ```
 The keystroke used to goto the previous group of lines with background color
-set. The default is '<c-p>'.
+set. The default is `<c-p>`.
 
 These are the default highlight settings. Change them to suit your preferences.
 
